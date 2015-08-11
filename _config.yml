@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://shihaos.github.io
+title: Shihaos Blog
 subtitle: A blogging framework for hackers.
 author: Your Name
 simple_search: https://www.google.com/search
@@ -70,8 +70,9 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_button: true
+weibo_user: ways赵仕豪 # 微博数字 ID 或域名 ID
+dribbble_user: 
+weibo_share: true # 是否开启微博分享按钮
 
 # Google +1
 google_plus_one: false
